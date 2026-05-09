@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sharon Zhou"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: diversions.qmd
+        text: Diversions
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false
+    page-layout: article
+    grid:
+      body-width: 820px

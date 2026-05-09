@@ -1,0 +1,51 @@
+---
+title: "Publications"
+---
+
+## Papers
+
+::: {.pub-entry}
+**Zhou, S.**, S.M. Edie, K.S. Collins, N.M.A. Crouch, and D. Jablonski. 2023. Cambrian origin but no early burst in functional disparity for Class Bivalvia. [*Biol. Lett.* 19: 20230157.]{.pub-venue}
+[doi](https://doi.org/10.1098/rsbl.2023.0157){.pub-links}
+:::
+
+::: {.pub-entry}
+**Zhou, S.** and L.E. Hunter. 2022. Evolution of plasticity and its potential role in the decline of specialists. [*Evolution* 76: 3067–3070.]{.pub-venue}
+[doi](https://doi.org/10.1111/evo.14637){.pub-links}
+:::
+
+::: {.pub-entry}
+C. Cossaboom and **Zhou, S.** 2023. Hecke nilpotency for modular forms mod 2 and an application to partition numbers. [*Ramanujan J.* 62(8): 899–923.]{.pub-venue}
+[doi](https://doi.org/10.1007/s11139-023-00748-8){.pub-links}
+:::
+
+
+## Talks
+
+::: {.pub-entry}
+**Zhou, S.**, S.M. Edie, K.S. Collins, and D. Jablonski, 2025. Latitudinal trends in morphological complexity: gradients, filters, and discordance with species richness. *Geological Society of America Annual Meeting.*
+:::
+
+::: {.pub-entry}
+**Zhou, S.** 2025. Beyond purifying selection: a quantitative genetic model of background selection due to stabilizing selection. *Midwest Population Genetics Conference, Minneapolis, MN.*
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, K.S. Collins, S.M. Edie, and D. Jablonski, 2024. Loss and rebound of morphological and functional disparity after a non-selective mass extinction at the K/Pg boundary (Family Veneridae, Bivalvia). *12th North American Paleontological Convention, University of Michigan.*
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, S.M. Edie, K.S. Collins, and D. Jablonski, 2023. Early burst in form but not function in Early Paleozoic bivalves: distinct trends in taxonomy, morphology and ecology. *Geological Society of America Annual Meeting.*
+:::
+
+::: {.pub-entry}
+C. Cossaboom and **Zhou, S.** 2023. Hecke nilpotency for modular forms mod 2 and an application to partition numbers. *Joint Mathematics Meetings, Boston, MA.*
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, K.S. Collins, N.M.A. Crouch, S.M. Edie, and D. Jablonski, 2022. No Early Burst in ecological diversity in Class Bivalvia: integrating taxic and phylogenetic approaches. *Geological Society of America Annual Meeting.*
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, K.S. Collins, S.M. Edie, and D. Jablonski, 2021. Disparification before, during, or after diversification? Testing an Early Burst hypothesis for functional diversity in Early Paleozoic bivalves. *Geological Society of America Annual Meeting.*
+:::

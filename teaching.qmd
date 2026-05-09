@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+## University of Chicago
+
+::: {.teaching-entry}
+[**Teaching Assistant**, Quantitative Genetics for the 21st Century]{.role}\
+[Spring 2026]{.term}\
+Supported a mixed undergraduate/graduate cohort in bridging quantitative genetic theory — including the Breeder's equation, causal inference, and GWAS — with hands-on R implementation through weekly office hours and coding assignments. Also moderated in-class paper discussions on the intersections of race, ancestry, and complex traits, with attention to scientific rigor and respectful academic discourse.
+:::
+
+::: {.teaching-entry}
+[**Teaching Assistant**, Biological Evolution]{.role}\
+[Winter 2026]{.term}\
+Facilitated active-learning discussion sections for non-majors and majors, guiding students through primary literature analysis and evolutionary theory. Co-developed inquiry-based curriculum for a Field Museum experiential learning module, helping students synthesize morphological data with evolutionary hypotheses.
+:::

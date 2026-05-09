@@ -1,0 +1,20 @@
+---
+title: "Research"
+---
+
+My research asks how complex phenotypes become unevenly distributed across the tree of life, geography, and time. I combine fossil data, comparative biology, population-genetic theory, and computational modeling to distinguish direct selection on traits from indirect sorting through correlated ecological, geographic, and genetic factors.
+
+## Morphological complexity and macroevolution
+
+I study the origination and differential sorting of morphological complexity in marine bivalves. My work has shown that functional disparity in bivalves did not follow an "early burst" pattern despite rapid taxonomic diversification in the early Paleozoic — taxonomy, morphology, and ecology followed distinct evolutionary trajectories, demonstrating that biodiversity currencies are not interchangeable.
+
+My current thesis work investigates why phenotypic complexity is unevenly distributed across latitude, clades, and the Cenozoic fossil record. I'm developing a novel morphological complexity score for bivalve ornamentation, and finding that species richness and ornamentation complexity decouple across latitude — driven mainly by sorting among families with conserved complexity baselines rather than by within-family transformation. This raises questions about the historical assembly and persistence of lineage-level complexity regimes, and when apparent morphological selectivity reflects direct selection on morphology versus indirect sorting through correlated traits such as ecology, geographic range, and lineage identity.
+
+*Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
+
+## Linked selection and population-genetic theory
+
+I develop analytical models for how stabilizing selection at many linked loci shapes patterns of genomic diversity. Classical background selection theory focuses on purifying selection removing deleterious mutations, but stabilizing selection — where intermediate phenotypes are favored — creates a distinct and underexplored regime. My current work builds moment-based approximations for multilocus systems under background selection due to stabilizing selection, complemented by forward simulations.
+
+*Advisor: [Jeremy Berg](http://www.jjbpopgen.org/)*
+

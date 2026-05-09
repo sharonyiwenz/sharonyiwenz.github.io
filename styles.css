@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+:root {
+  --accent: #2b6777;
+  --accent-light: #e8f1f3;
+  --text: #2d2d2d;
+  --text-light: #666;
+  --border: #e0e0e0;
+}
+
+body {
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* Override Quarto navbar styling */
+.navbar {
+  font-family: 'Source Sans 3', sans-serif !important;
+  border-bottom: 1px solid var(--border) !important;
+  background-color: #fff !important;
+  box-shadow: none !important;
+}
+
+.navbar-brand {
+  font-family: 'Source Serif 4', Georgia, serif !important;
+  font-size: 1.5em !important;
+  font-weight: 600 !important;
+  color: var(--text) !important;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text-light) !important;
+  font-size: 0.95em !important;
+  font-weight: 400 !important;
+  transition: color 0.15s !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-weight: 600;
+}
+
+h1 { font-size: 1.6em; }
+
+h2 {
+  font-size: 1.15em;
+  color: var(--accent);
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--accent-light);
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+
+h3 {
+  font-size: 1em;
+  color: var(--text);
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Profile section on home page */
+.profile {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.profile img,
+.profile .profile-photo img {
+  width: 160px;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.profile p:has(> img) {
+  margin: 0;
+  flex-shrink: 0;
+}
+
+.profile-text .subtitle {
+  color: var(--text-light);
+  margin-bottom: 0.8em;
+  font-size: 0.95em;
+}
+
+.contact-links {
+  margin-top: 0.6em;
+  font-size: 0.9em;
+}
+
+.contact-links a {
+  margin-right: 16px;
+}
+
+/* Interest tags */
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 0.5em;
+}
+
+.interest-tag {
+  background: var(--accent-light);
+  color: var(--accent);
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 0.88em;
+  display: inline-block;
+}
+
+/* Publication list */
+.pub-entry {
+  margin-bottom: 1.2em;
+  line-height: 1.5;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: var(--text-light);
+}
+
+.pub-links a {
+  font-size: 0.85em;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 1px 8px;
+  border-radius: 3px;
+  margin-right: 6px;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  background: #d0e4e8;
+  text-decoration: none;
+}
+
+/* Teaching entry */
+.teaching-entry {
+  margin-bottom: 1em;
+}
+
+.teaching-entry .role {
+  font-weight: 600;
+}
+
+.teaching-entry .term {
+  color: var(--text-light);
+  font-size: 0.9em;
+}
+
+/* CV page */
+.cv-section {
+  margin-bottom: 1.5em;
+}
+
+.cv-entry {
+  margin-bottom: 0.8em;
+}
+
+.cv-entry .dates {
+  color: var(--text-light);
+  font-size: 0.9em;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .interests {
+    justify-content: center;
+  }
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid var(--border) !important;
+  color: #aaa !important;
+  font-size: 0.85em !important;
+}

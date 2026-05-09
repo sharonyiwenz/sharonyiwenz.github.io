@@ -1,0 +1,37 @@
+---
+title: "CV"
+---
+
+A PDF of my full CV is available [here](files/cv-sharon.pdf).
+
+## Education
+
+::: {.cv-entry}
+**University of Chicago** — Ph.D. in Evolutionary Biology [2023 – present]{.dates}\
+Advisor: Dr. David Jablonski
+:::
+
+::: {.cv-entry}
+**University of Chicago** — B.A. in Mathematics with honors, magna cum laude [2019 – 2023]{.dates}
+:::
+
+## Awards & Grants
+
+- GSA North-Central Section Student Travel Grant, Geological Society of America (2025)
+- Quad Faculty Research Grant, University of Chicago (2021–2022)
+- Dean's Fund for Undergraduate Research, University of Chicago (2022)
+- Phi Beta Kappa Society (2022)
+- Enrico Fermi Scholar Physical Sciences Collegiate Divisional Honors (2022)
+- Robert Maynard Hutchins Scholar, University of Chicago (2021)
+- Dean's List, University of Chicago (2020–2023)
+
+## Service
+
+- Darwinian Cluster student representative, University of Chicago (2025–present)
+- Sewall Wright Lecture organizing committee, University of Chicago (2024–present)
+
+## Workshops
+
+- Contemporary Challenges in Large-Scale Sequence Alignments and Phylogenies, IMSI, University of Chicago (August 2025)
+- Meeting of the Society for Modeling and Theory in Population Biology, NITMB, Chicago (June 2025)
+- AI+Science Summer School, IMSI, University of Chicago (July 2024)
