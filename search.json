@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Sharon Zhou",
     "section": "",
-    "text": "PhD Student · Committee on Evolutionary Biology · University of Chicago\nI study how evolutionary processes shape biological variation across scales - from macroevolutionary patterns of morphological complexity in marine bivalves to population-genetic models of linked selection and complex trait architecture.\nI’m a PhD student in Evolutionary Biology at the University of Chicago, working with David Jablonski on macroevolution and morphological complexity, and with Jeremy Berg on population-genetic theory and linked selection.\n\nEmail · Google Scholar · GitHub"
+    "text": "PhD Student · Committee on Evolutionary Biology · University of Chicago\nI study a problem that recurs across evolutionary biology: telling whether selection acts on a trait itself, or on something correlated with it. In genomes that “something” is genetic linkage; across the tree of life it is ecology, geography, and shared ancestry. I work the question in two systems - the population genetics of linked stabilizing selection, and the macroevolution of morphological complexity in marine bivalves - building models that ask when the true target of selection can be identified.\nI’m a PhD student in Evolutionary Biology at the University of Chicago, working with David Jablonski on macroevolution and morphological complexity, and with Jeremy Berg on population-genetic theory and linked selection.\n\nEmail · Google Scholar · GitHub"
   },
   {
     "objectID": "index.html#research-interests",
@@ -81,7 +81,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research asks how complex phenotypes become unevenly distributed across the tree of life, geography, and time. I combine fossil data, comparative biology, population-genetic theory, and computational modeling to distinguish direct selection on traits from indirect sorting through correlated ecological, geographic, and genetic factors."
+    "text": "My research asks how complex phenotypes become unevenly distributed across the tree of life, geography, and time. I combine fossil data, comparative biology, population-genetic theory, and computational modeling to distinguish direct selection on traits from indirect sorting through correlated ecological, geographic, and genetic factors.\nThese two programs look nothing alike as systems, but they are the same inferential problem at different scales: an observed signal of selection may identify the trait selection actually targeted, or a correlated neighbor - a linked locus in a genome, a covarying ecological or geographic trait across lineages - and the work is to tell which, and to know when the data can."
   },
   {
     "objectID": "research.html#morphological-complexity-and-macroevolution",
@@ -95,7 +95,7 @@
     "href": "research.html#impact-of-linked-stabilizing-selection-on-genetic-diversity",
     "title": "Research",
     "section": "Impact of linked stabilizing selection on genetic diversity",
-    "text": "Impact of linked stabilizing selection on genetic diversity\nWe developed a moments models for the impact of stabilizing selection on patterns of genomic diversity. Existing background selection theory focuses on purifying selection, but stabilizing selection - which has been suggested to play an important role shaping human complex traits - creates a distinct and underexplored regime. Our moments model, which we validated by forward simulations, shows that stabilizing selection leads to greater reduction in genetic diversity at linked neutral sites than stabilizing selection. We are currently investigating the mechanisms underlying this phenomenon using population genetic theory.\nWork with: Jeremy Berg"
+    "text": "Impact of linked stabilizing selection on genetic diversity\nWe developed a moments model for the impact of stabilizing selection on linked genomic diversity. Classical background-selection theory assumes directional purifying selection, but stabilizing selection - thought to shape much of human complex-trait variation - defines a distinct and underexplored regime. Our model, validated against forward simulations, shows that stabilizing selection produces a greater reduction in linked neutral diversity than the classical additive purifying-selection prediction; we are now working out why, using population-genetic theory.\nWork with: Jeremy Berg"
   },
   {
     "objectID": "publications.html",
