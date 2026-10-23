@@ -11,23 +11,35 @@ title: "Publications"
 
 ::: {.pub-entry}
 **Zhou, S.** and L.E. Hunter. 2022. Evolution of plasticity and its potential role in the decline of specialists. [*Evolution* 76: 3067–3070.]{.pub-venue}
-[doi](https://doi.org/10.1111/evo.14637){.pub-links}
+[doi](https://doi.org/10.1111/evo.14633){.pub-links}
 :::
 
 ::: {.pub-entry}
-C. Cossaboom and **Zhou, S.** 2023. Hecke nilpotency for modular forms mod 2 and an application to partition numbers. [*Ramanujan J.* 62(8): 899–923.]{.pub-venue}
-[doi](https://doi.org/10.1007/s11139-023-00748-8){.pub-links}
+C. Cossaboom and **Zhou, S.** 2023. Hecke nilpotency for modular forms mod 2 and an application to partition numbers. [*Ramanujan J.* 62: 899–923.]{.pub-venue}
+[doi](https://doi.org/10.1007/s11139-023-00720-6){.pub-links}
 :::
 
 
-## Talks
+## Conference presentations
+
+::: {.pub-entry}
+**Zhou, S.**, S.M. Edie, and D. Jablonski. 2026. Bivalve shells as space–time records: what ornament reveals about development. Poster, *Representing and Learning Morphology and Shape Dynamics from Biological Data*, NITMB, Chicago, IL, October 21.
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, L. Hayward, W. Mawass, and J.J. Berg. 2026. Linked neutral diversity under stabilizing selection: A two-locus moments approach. Poster, *Midwest Population Genetics Meetings*, Chicago, IL, August 22.
+:::
+
+::: {.pub-entry}
+**Zhou, S.**, S.M. Edie, K.S. Collins, and D. Jablonski. 2026. Parallel decoupling of species richness and morphological complexity across latitude in marine bivalves. Oral presentation, *Evolution 2026*, Cleveland, OH, June 23.
+:::
 
 ::: {.pub-entry}
 **Zhou, S.**, S.M. Edie, K.S. Collins, and D. Jablonski, 2025. Latitudinal trends in morphological complexity: gradients, filters, and discordance with species richness. *Geological Society of America Annual Meeting.*
 :::
 
 ::: {.pub-entry}
-**Zhou, S.** 2025. Beyond purifying selection: a quantitative genetic model of background selection due to stabilizing selection. *Midwest Population Genetics Conference, Minneapolis, MN.*
+**Zhou, S.**, L. Hayward, W. Mawass, and J.J. Berg. 2025. Beyond purifying selection: a quantitative genetic model of background selection due to stabilizing selection. *Midwest Population Genetics Conference*, Minneapolis, MN, August.
 :::
 
 ::: {.pub-entry}
