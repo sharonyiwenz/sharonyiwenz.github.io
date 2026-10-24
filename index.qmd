@@ -12,7 +12,7 @@ title: ""
 
 [PhD Student · Committee on Evolutionary Biology · University of Chicago]{.subtitle}
 
-I study how evolutionary processes shape biological variation across scales — from macroevolutionary patterns of morphological complexity in marine bivalves to population-genetic models of linked selection and complex-trait architecture.
+I'm interested in how we represent biological variation and use quantitative models to explain its organization and evolution. My work asks which features of complex biological systems we need to retain to understand how their diversity arises and changes across space and time. I approach these questions through morphological complexity and shell growth in marine bivalves, and the population genetics of linked selection.
 
 I'm a PhD student in Evolutionary Biology at the University of Chicago, working with [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/) on macroevolution and morphological complexity, and with [Jeremy Berg](http://www.jjbpopgen.org/) on population-genetic theory and linked selection.
 
