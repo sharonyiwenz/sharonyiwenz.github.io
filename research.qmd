@@ -8,7 +8,9 @@ My research asks how complex phenotypes become unevenly distributed across the t
 
 I study the origination and differential sorting of morphological complexity in marine bivalves. My work has shown that functional disparity in bivalves did not follow an "early burst" pattern despite rapid taxonomic diversification in the early Paleozoic — taxonomy, morphology, and ecology followed distinct evolutionary trajectories, demonstrating that biodiversity currencies are not interchangeable.
 
-My current thesis work investigates why phenotypic complexity is unevenly distributed across latitude, clades, and the Cenozoic fossil record. I'm developing a novel morphological complexity score for bivalve ornamentation, and finding that species richness and ornamentation complexity decouple across latitude — driven mainly by sorting among families with conserved complexity baselines rather than by within-family transformation. This raises questions about the historical assembly and persistence of lineage-level complexity regimes, and when apparent morphological selectivity reflects direct selection on morphology versus indirect sorting through correlated traits such as ecology, geographic range, and lineage identity.
+### How does morphological complexity vary across latitude?
+
+I developed a measure of shell ornamentation complexity to compare morphological and taxonomic patterns across marine bivalves in the West Pacific and West Atlantic. Our results show that species richness and shell complexity follow different latitudinal patterns. By separating changes in species composition within and among families, I investigate how these patterns are assembled and how they relate to ecology.
 
 *Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
 
