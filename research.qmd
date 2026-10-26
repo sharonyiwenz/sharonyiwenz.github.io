@@ -2,17 +2,20 @@
 title: "Research"
 ---
 
-My research asks how complex phenotypes become unevenly distributed across the tree of life, geography, and time. I combine fossil data, comparative biology, population-genetic theory, and computational modeling to distinguish direct selection on traits from indirect sorting through correlated ecological, geographic, and genetic factors.
+I use empirical data and mathematical models to investigate how evolution shapes biological diversity. My current work spans two areas: the macroevolution of morphological complexity in marine bivalves and the population genetics of linked selection.
 
 ## Morphological complexity and macroevolution
-
-I study the origination and differential sorting of morphological complexity in marine bivalves. My work has shown that functional disparity in bivalves did not follow an "early burst" pattern despite rapid taxonomic diversification in the early Paleozoic — taxonomy, morphology, and ecology followed distinct evolutionary trajectories, demonstrating that biodiversity currencies are not interchangeable.
 
 ### How does morphological complexity vary across latitude?
 
 I developed a measure of shell ornamentation complexity to compare morphological and taxonomic patterns across marine bivalves in the West Pacific and West Atlantic. Our results show that species richness and shell complexity follow different latitudinal patterns. By separating changes in species composition within and among families, I investigate how these patterns are assembled and how they relate to ecology.
 
+In earlier work, we showed that ecological functions did not accumulate in an early burst relative to taxonomic diversity during the initial evolution of bivalves ([Zhou et al. 2023](https://doi.org/10.1098/rsbl.2023.0157)). Together, these studies ask how different aspects of biodiversity follow different evolutionary trajectories.
+
+An emerging direction is to investigate how morphological diversity is assembled and maintained through time, including how the variation lineages can produce interacts with ecological conditions and differential survival.
+
 *Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
+
 
 ## Generative models of shell ornamentation
 
@@ -23,9 +26,10 @@ I develop generative models of bivalve shell ornamentation to investigate how gr
 *Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
 
 
-## Linked selection and population-genetic theory
+## Impact of linked stabilizing selection on genetic diversity
 
-I develop analytical models for how stabilizing selection at many linked loci shapes patterns of genomic diversity. Classical background selection theory focuses on purifying selection removing deleterious mutations, but stabilizing selection — where intermediate phenotypes are favored — creates a distinct and underexplored regime. My current work builds moment-based approximations for multilocus systems under background selection due to stabilizing selection, complemented by forward simulations.
+### How does stabilizing selection on complex traits shape genetic diversity?
 
-*Advisor: [Jeremy Berg](http://www.jjbpopgen.org/)*
+Models of pleiotropic stabilizing selection help explain patterns of genetic variation in many human complex traits. I develop population-genetic theory to ask what this implies for genetic diversity at linked sites. We find that, in the regimes studied, our model of stabilizing selection produces greater reductions in linked neutral diversity than purifying selection with the same heterozygote fitness cost. I am applying this framework to human traits such as height, using estimates of genetic architecture to predict the effects of pleiotropic stabilizing selection on linked neutral diversity.
 
+*Work with: [Jeremy Berg](http://www.jjbpopgen.org/)*

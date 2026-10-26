@@ -2,7 +2,9 @@
 title: "CV"
 ---
 
-A PDF of my full CV is available [here](files/cv-sharon.pdf).
+[Download CV (PDF)](files/cv-sharon.pdf){.cv-download}
+
+Updated October 2026.
 
 ## Education
 

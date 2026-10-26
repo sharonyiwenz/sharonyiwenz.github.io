@@ -87,7 +87,7 @@ a:hover {
 
 .profile img,
 .profile .profile-photo img {
-  width: 160px;
+  width: 200px;
   border-radius: 6px;
   flex-shrink: 0;
 }
@@ -101,6 +101,18 @@ a:hover {
   color: var(--text-light);
   margin-bottom: 0.8em;
   font-size: 0.95em;
+}
+
+.profile-text {
+  min-width: 0;
+}
+
+.cv-download {
+  display: inline-block;
+  padding: 0.45em 0.85em;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  font-weight: 600;
 }
 
 .contact-links {
@@ -192,6 +204,15 @@ a:hover {
   .profile {
     flex-direction: column;
     align-items: center;
+    text-align: left;
+  }
+
+  .profile-text {
+    width: 100%;
+  }
+
+  .profile-text h1,
+  .profile-text > p:has(.subtitle) {
     text-align: center;
   }
 

@@ -10,7 +10,7 @@ title: "Publications"
 :::
 
 ::: {.pub-entry}
-**Zhou, S.** and L.E. Hunter. 2022. Evolution of plasticity and its potential role in the decline of specialists. [*Evolution* 76: 3067–3070.]{.pub-venue}
+**Zhou, S.** and L.E. Hunter. 2022. Digest: Evolution of plasticity and its potential role in the decline of specialists. [*Evolution* 76: 3067–3070.]{.pub-venue} Research digest.
 [doi](https://doi.org/10.1111/evo.14633){.pub-links}
 :::
 

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
 
 website:
   title: "Sharon Zhou"
@@ -16,8 +18,6 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
-      - href: diversions.qmd
-        text: Diversions
 
 format:
   html:
