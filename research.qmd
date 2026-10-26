@@ -14,6 +14,15 @@ I developed a measure of shell ornamentation complexity to compare morphological
 
 *Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
 
+## Generative models of shell ornamentation
+
+### How does development shape the paths of morphological evolution?
+
+I develop generative models of bivalve shell ornamentation to investigate how growth processes shape the variation available to evolution. My goal is to map how changes in underlying growth processes translate into changes in shell form, generating predictions about developmental accessibility—which morphological transitions are more likely under the model. By comparing these predictions with morphological transitions inferred from phylogenies, I aim to test whether development helps explain which changes recur across evolutionary lineages, and where observed evolution departs from the model's predictions.
+
+*Advisor: [David Jablonski](https://geosci.uchicago.edu/people/david-jablonski/)*
+
+
 ## Linked selection and population-genetic theory
 
 I develop analytical models for how stabilizing selection at many linked loci shapes patterns of genomic diversity. Classical background selection theory focuses on purifying selection removing deleterious mutations, but stabilizing selection — where intermediate phenotypes are favored — creates a distinct and underexplored regime. My current work builds moment-based approximations for multilocus systems under background selection due to stabilizing selection, complemented by forward simulations.
